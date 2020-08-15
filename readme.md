@@ -6,15 +6,9 @@ It's not a complete archive of all resources by any means, and this repo actuall
 
 Some examples:
 
-<img src="docs/dragon-negative.png" alt="Dragon type" width="64">
-<img src="docs/fire-negative.png" alt="Fire type" width="64">
-<img src="docs/grass-negative.png" alt="Grass type" width="64">
-<img src="docs/ice-negative.png" alt="Ice type" width="64">
+<img src="docs/dragon-negative.png" alt="Dragon type" width="64"> <img src="docs/fire-negative.png" alt="Fire type" width="64"> <img src="docs/grass-negative.png" alt="Grass type" width="64"> <img src="docs/ice-negative.png" alt="Ice type" width="64">
 
-<img src="docs/dragon-positive.png" alt="Dragon type" width="64">
-<img src="docs/fire-positive.png" alt="Fire type" width="64">
-<img src="docs/grass-positive.png" alt="Grass type" width="64">
-<img src="docs/ice-positive.png" alt="Ice type" width="64">
+<img src="docs/dragon-positive.png" alt="Dragon type" width="64"> <img src="docs/fire-positive.png" alt="Fire type" width="64"> <img src="docs/grass-positive.png" alt="Grass type" width="64"> <img src="docs/ice-positive.png" alt="Ice type" width="64">
 
 ## Related projects
 
